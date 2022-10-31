@@ -1,0 +1,33 @@
+body {
+  background-color: #EEF1FF;
+}
+h2 {
+  color: #3F3B6C;
+}
+h2:hover {
+  background-color: #A3C7D6;
+}
+h3 {
+  color: #9F73AB;
+}
+h3:hover {
+  color: #3F3B6C;
+}
+img {
+  background-color: #9F73AB;
+}
+.circular {
+  border-radius: 10%;
+}
+.marksheet {
+  background-color: #3F3B6C;
+  color: white;
+}
+.footer {
+  background-color: #3F3B6C;
+  height: 200px;
+  width: 5000px;
+}
+.contactme {
+  color: white;
+}
